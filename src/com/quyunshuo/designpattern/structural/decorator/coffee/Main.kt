@@ -1,4 +1,4 @@
-package com.quyunshuo.designpattern.structural.decorator
+package com.quyunshuo.designpattern.structural.decorator.coffee
 
 /**
  * 装饰者模式 星巴兹咖啡应用-测试

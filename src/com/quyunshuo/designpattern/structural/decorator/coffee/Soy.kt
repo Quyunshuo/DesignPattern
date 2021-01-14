@@ -1,4 +1,4 @@
-package com.quyunshuo.designpattern.structural.decorator
+package com.quyunshuo.designpattern.structural.decorator.coffee
 
 /**
  * 豆浆 具体装饰者

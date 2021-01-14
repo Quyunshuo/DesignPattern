@@ -1,15 +1,15 @@
-package com.quyunshuo.designpattern.structural.decorator
+package com.quyunshuo.designpattern.structural.decorator.coffee
 
 /**
- * 浓缩咖啡 具体组件
+ * 综合咖啡 具体组件
  */
-class Espresso : Beverage() {
+class HouseBlend : Beverage() {
 
     /**
      * 重写描述
      */
     override fun getDescription(): String {
-        beverageDescription = "Espresso"
+        beverageDescription = "HouseBlend"
         return beverageDescription
     }
 
@@ -17,6 +17,6 @@ class Espresso : Beverage() {
      * 重写价格
      */
     override fun cost(): Double {
-        return 1.99
+        return 0.89
     }
 }

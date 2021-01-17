@@ -1,9 +1,6 @@
 package com.quyunshuo.designpattern.structural.decorator.coffee
 
 /**
- * 装饰者模式 Decorator Pattern
- * 装饰者模式动态地将责任附加到对象上。若要扩展功能，装饰者提供了比继承更有弹性的替代方案
- * 星巴兹咖啡应用 《Head First 设计模式》
  *
  * 饮料 抽象组件
  */

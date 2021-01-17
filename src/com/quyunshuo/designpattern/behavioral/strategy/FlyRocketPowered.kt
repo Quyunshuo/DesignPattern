@@ -1,7 +1,5 @@
 package com.quyunshuo.designpattern.behavioral.strategy
 
-import com.quyunshuo.designpattern.behavioral.strategy.FlyBehavior
-
 /**
  * 飞行行为的实现类
  * 利用火箭动力飞行的飞行行为

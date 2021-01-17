@@ -9,35 +9,35 @@ abstract class Pizza {
     /**
      * 比萨的准备过程
      */
-    fun prepare() {
+    open fun prepare() {
         println(" Pizza is being preparing... ")
     }
 
     /**
      * 比萨的烘烤过程
      */
-    fun bake() {
+    open fun bake() {
         println(" Pizza is being baking... ")
     }
 
     /**
      * 比萨的裁切过程
      */
-    fun cut() {
+    open fun cut() {
         println(" Pizza is being cut... ")
     }
 
     /**
      * 比萨的包装过程
      */
-    fun box() {
+    open fun box() {
         println(" Pizza is being box... ")
     }
 
     /**
      * 制作完成
      */
-    fun completed() {
+    open fun completed() {
         println(" Pizza completed!!! ")
     }
 }

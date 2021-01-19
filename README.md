@@ -6,7 +6,8 @@
 
 - [x] 工厂方法模式（Factory Method Pattern）
     * 比萨店 - 《Head First 设计模式》
-- [ ] 抽象工厂模式（Abstract Factory Pattern）
+- [x] 抽象工厂模式（Abstract Factory Pattern）
+    * 针对于比萨店的原料工厂 - 《Head First 设计模式》
 - [ ] 单例模式（Singleton Pattern）
 - [ ] 建造者模式（Builder Pattern）
 - [ ] 原型模式（Prototype Pattern）

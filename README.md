@@ -8,7 +8,17 @@
     * 比萨店 - 《Head First 设计模式》
 - [x] 抽象工厂模式（Abstract Factory Pattern）
     * 针对于比萨店的原料工厂 - 《Head First 设计模式》
-- [ ] 单例模式（Singleton Pattern）
+- [x] 单例模式（Singleton Pattern）
+    * Java 饿汉式单例
+    * Java 线程安全懒汉式单例
+    * Java 双重校验锁式单例
+    * Java 静态内部类式单例
+    * Java 枚举式单例
+    * Kotlin 饿汉式单例
+    * Kotlin 线程安全懒汉式单例
+    * Kotlin 双重校验锁式单例
+    * Kotlin 静态内部类式单例
+    * Kotlin 枚举式单例
 - [ ] 建造者模式（Builder Pattern）
 - [ ] 原型模式（Prototype Pattern）
 

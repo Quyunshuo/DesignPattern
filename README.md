@@ -25,7 +25,8 @@
 ## 行为型设计模式
 
 - [ ] 责任链模式（Chain of Responsibility Pattern）
-- [ ] 命令模式（Command Pattern）
+- [x] 命令模式（Command Pattern）
+    * 家电自动化遥控器 - 《Head First 设计模式》
 - [ ] 解释器模式（Interpreter Pattern）
 - [ ] 迭代器模式（Iterator Pattern）
 - [ ] 中介者模式（Mediator Pattern）

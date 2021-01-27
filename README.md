@@ -48,5 +48,6 @@
 - [x] 装饰器模式（Decorator Pattern）
     * 星巴兹咖啡应用 - 《Head First 设计模式》
     * Java I/O - JDK
-- [ ] 适配器模式（Adapter Pattern）
+- [x] 适配器模式（Adapter Pattern）
+    * 伪装成鸭子的火鸡 - 《Head First 设计模式》
 - [ ] 外观模式（Facade Pattern）

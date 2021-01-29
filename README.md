@@ -51,4 +51,5 @@
 - [x] 适配器模式（Adapter Pattern）
     * 伪装成鸭子的火鸡 - 《Head First 设计模式》
     * 兼容Java早期集合枚举器的集合迭代器 - 《Head First 设计模式》
-- [ ] 外观模式（Facade Pattern）
+- [x] 外观模式（Facade Pattern）
+    * 家庭影院 - 《Head First 设计模式》

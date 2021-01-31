@@ -35,7 +35,8 @@
     * 气象站应用 - 《Head First 设计模式》
 - [x] 策略模式（Strategy Pattern）
     * 模拟鸭子应用 - 《Head First 设计模式》
-- [ ] 模板模式（Template Pattern）
+- [x] 模板方法模式（Template Pattern）
+    * 星巴兹咖啡师傅训练手册 - 《Head First 设计模式》
 - [ ] 访问者模式（Visitor Pattern）
 - [ ] 状态模式（State Pattern）
 

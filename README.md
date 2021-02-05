@@ -28,7 +28,8 @@
 - [x] 命令模式（Command Pattern）
     * 家电自动化遥控器 - 《Head First 设计模式》
 - [ ] 解释器模式（Interpreter Pattern）
-- [ ] 迭代器模式（Iterator Pattern）
+- [x] 迭代器模式（Iterator Pattern）
+    * 对象村餐厅和对象村煎饼屋合并新招的女招待 - 《Head First 设计模式》
 - [ ] 中介者模式（Mediator Pattern）
 - [ ] 备忘录模式（Memento Pattern）
 - [x] 观察者模式（Observer Pattern）

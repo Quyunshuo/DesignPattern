@@ -43,7 +43,8 @@
 
 ## 结构型设计模式
 
-- [ ] 组合模式（Composite Pattern）
+- [x] 组合模式（Composite Pattern）
+    * 对象村餐厅和对象村煎饼屋合并后又在餐厅菜单中添加了饭后甜点菜单 - 《Head First 设计模式》
 - [ ] 享元模式（Flyweight Pattern）
 - [ ] 代理模式（Proxy Pattern）
 - [ ] 桥接模式（Bridge Pattern）

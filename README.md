@@ -39,7 +39,8 @@
 - [x] 模板方法模式（Template Pattern）
     * 星巴兹咖啡师傅训练手册 - 《Head First 设计模式》
 - [ ] 访问者模式（Visitor Pattern）
-- [ ] 状态模式（State Pattern）
+- [x] 状态模式（State Pattern）
+    * 糖果机 - 《Head First 设计模式》
 
 ## 结构型设计模式
 

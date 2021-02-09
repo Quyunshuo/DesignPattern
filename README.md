@@ -19,7 +19,9 @@
     * Kotlin 双重校验锁式单例
     * Kotlin 静态内部类式单例
     * Kotlin 枚举式单例
-- [ ] 建造者模式（Builder Pattern）
+- [x] 建造者模式（Builder Pattern）
+    * 经典的Builder模式 - 《Android高级进阶》
+    * 变种的Builder模式（Java）
 - [ ] 原型模式（Prototype Pattern）
 
 ## 行为型设计模式
